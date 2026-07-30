@@ -1,6 +1,6 @@
 # Ecommerce-sales-analysis-excel
 🛒 Ecommerce Sales Analysis Dashboard 📊 (Microsoft Excel)
-A dynamic, interactive data visualization tool built to explore Ecommerce data-focusing on overall sales performance, product performance, state-wise comparisons and order distribution by channel.
+- A dynamic, interactive data visualization tool built to explore Ecommerce data-focusing on overall sales performance, product performance, state-wise comparisons and order distribution by channel.
 
 
 ## 📌 Project Overview
