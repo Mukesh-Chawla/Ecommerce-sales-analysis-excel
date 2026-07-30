@@ -22,9 +22,9 @@ The goal of this project is to transform raw sales data into meaningful business
 ## 📂 Dataset
 
 The dataset contains raw e-commerce order transactions captured throughout 2024 (January 1, 2024 – December 31, 2024) across India.
-Total Records: 1,112 rows
-Total Columns: 12 attributes
-Unique Orders: 1,100 
+- Total Records: 1,112 rows
+- Total Columns: 12 attributes
+- Unique Orders: 1,100 
 
 
 ## 📈 Dashboard Features
