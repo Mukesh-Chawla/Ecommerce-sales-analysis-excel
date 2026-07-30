@@ -50,11 +50,9 @@ Unique Orders: 1,100
 
 
 ## 📷 Dashboard Preview
-```markdown
-![Dashboard Screenshot](https://github.com/Mukesh-Chawla/Ecommerce-sales-analysis-excel/blob/main/Snapshot%20of%20the%20Dashboard.png)
 ```
-
----
+https://github.com/Mukesh-Chawla/Ecommerce-sales-analysis-excel/blob/main/Snapshot%20of%20the%20Dashboard.png
+```
 
 
 ## 📁 Project Structure
