@@ -16,7 +16,7 @@ The goal of this project is to transform raw sales data into meaningful business
 - Pivot Charts
 - Slicers
 - Text to Columns
-- Excel Formulas (SUMIFS, COUNTIF, IF, IFS, INDEX-MATCH/XLOOKUP, etc.)
+- Excel Formulas (SUMIFS, COUNTIF, IF, IFS, PROPER, TRIM, INDEX-MATCH/XLOOKUP, etc.)
 
 
 ## 📂 Dataset
@@ -70,6 +70,16 @@ Ecommerce-Sales-Analysis/
 │
 └── README.md
 ```
+
+
+## 📌 Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Pivot Tables
+- Data Visualization
+- Business Intelligence
+- Excel Formulas and Function
 
 
 ## 👨‍💻 Author
