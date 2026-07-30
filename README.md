@@ -55,6 +55,7 @@ https://github.com/Mukesh-Chawla/Ecommerce-sales-analysis-excel/blob/main/Snapsh
 
 ## 📁 Project Structure
 
+```
 Ecommerce-Sales-Analysis/
 │
 ├── Dataset/
@@ -67,6 +68,14 @@ Ecommerce-Sales-Analysis/
 │   └── Snapshot of the Dashboard.png
 │
 └── README.md
+```
+
+
+## 👨‍💻 Author
+
+**Mukesh Chawla**
+
+- GitHub: https://github.com/Mukesh-Chawla
 
 
 
